@@ -18,6 +18,4 @@ Tabela1 | Pt1
 Tabela2 | Pt2
 Tabela3 | Pt3
 
-![Blue Emoji](https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/671ff18d174384ea7bb16670_96.png)
-
-![Blue Emoji2](https://bluemoji.io/emoji/1000-yard-stare)
+![Blue Emoji](https://media.tenor.com/5qbofo9sJsgAAAAe/my-mom-is-kinda-homeless-ishowspeed.png)
