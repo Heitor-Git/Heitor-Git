@@ -18,4 +18,4 @@ Tabela1 | Pt1
 Tabela2 | Pt2
 Tabela3 | Pt3
 
-![Blue Emoji]https://bluemoji.io/emoji/freaked-out
+![Blue Emoji](https://bluemoji.io/emoji/freaked-out)
