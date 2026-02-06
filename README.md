@@ -19,3 +19,5 @@ Tabela2 | Pt2
 Tabela3 | Pt3
 
 ![Blue Emoji](https://bluemoji.io/emoji/freaked-out)
+
+![Blue Emoji2](https://bluemoji.io/emoji/1000-yard-stare)
